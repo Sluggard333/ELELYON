@@ -1,4 +1,4 @@
-   hi# Tesseract-tetrahub 
+   hi  Tesseract-tetrahub 
 Going up into the 4rth dimension 
 4 dimensional
 HYPER CUBE THE OBJECT IS 4 DIMENSIONAL HYPER CUBE 16 VERTICES
