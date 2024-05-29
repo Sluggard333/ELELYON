@@ -1,0 +1,14 @@
+                 *;G & G MATRICES;"
+ G=[abc]
+   [def]
+ - [ghi]
+ G [jkl]
+   [mno]
+   [pqr]
+                     "*°G*G°*" 
+ 1.[g*j+b*m+c*p]
+ 2.[d*j+e*m+f*p]
+ 3.[g*j+n*m+I*p]
+ 4.[g*k+b*n+c*9]
+ 5.[d*k+e*n+f*9]
+ 6.[g*k+h*n+I*9]
