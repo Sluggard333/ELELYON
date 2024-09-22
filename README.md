@@ -1,21 +1,4 @@
-   hi  Tesseract-tetrahub 
-Going up into the 4rth dimension 
-4 dimensional
-HYPER CUBE THE OBJECT IS 4 DIMENSIONAL HYPER CUBE 16 VERTICES
-,32 edges,24 faces,& 8 cells vertices tesseract is a regular polytope w/16 verticesof the tesseract tesseract is labeled
-Line passes through the points 
-c(-7,0)& D(-5,5) slope passes through the points
-           **Solutions**
-           c(-7,0) & D(-5,5)
-           m=y²-y¹
-           x²-x1 =m=-5-0=-5-5
-           -5(-7)-2-2
-           slope intercept 
-           form given slope
-m=5/2 into equations y=5/2xb find(Y)-intercept coordinate for one of the points c(-7,0) into equation 0=5/2(-7)+b solving b
-b=17.5 equation y=5/2x+17.5 
-                  "K","A","P",&"M", 
-                Central point "o" 
+    
 *1+17  1+17=18
 *2+16  2+16=18
 *3+15  3+15=18
