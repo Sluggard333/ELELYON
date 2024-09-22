@@ -20,31 +20,31 @@
                     <strong>
                 <em>
 
-// Speed of light (m⋅s-1)
+ Speed of light (m⋅s-1)
 c=299792458
-// Charge of an electron (C)
+ Charge of an electron (C)
 q=1.602176565E-19
-// Universal gravitational constant(N⋅m2/kg2)
+ Universal gravitational constant(N⋅m2/kg2)
 G=6.67384E-11
-// Planck’s constant (eV⋅s)
+ Planck’s constant (eV⋅s)
 h=4.135667662E-15
-// Dirac’s constant(eV⋅s)
+ Dirac’s constant(eV⋅s)
 ħ=6.582119514E-16
-// Boltzmann’s constant (eV⋅K-1)
+ Boltzmann’s constant (eV⋅K-1)
 k=8.6173324E-5
-// Avogadro’s constant 	(mol−1)
+ Avogadro’s constant 	(mol−1)
 NA=6.022140857E23
-// Mass of an electron 	(kg)
+ Mass of an electron 	(kg)
 mₑ=9.10938291E-31
-//Mass of a proton (kg)
+Mass of a proton (kg)
 mₚ=1.672621777E-27
-// Mass of a neutron(kg)
+ Mass of a neutron(kg)
 mₙ=1.674927351E-27
-//Permittivity of free space (F/m)
+Permittivity of free space (F/m)
 ε₀=8.854187817E-12
-//Permeability of free space(N⋅A-2)
+Permeability of free space(N⋅A-2)
 μ₀=π*4E-7
-//Bohr radius (m)
+Bohr radius (m)
 a₀=5.2917721092E-11
 ﻿clear()
 r=DiscountRate/100
@@ -131,41 +131,7 @@ Bncdf(n,p,s,x)=summ(Bn(n,p,v),v,s,x)
 poi(x)=mˣ/(eᵐ*!(x))
 a=0
 i^1+a1=
-// Speed of light (m⋅s-1)
-c=299792458
-// Charge of an electron (C)
-q=1.602176565E-19
-// Universal gravitational constant(N⋅m2/kg2)
-G=6.67384E-11
-// Planck’s constant (eV⋅s)
-h=4.135667662E-15
-// Dirac’s constant(eV⋅s)
-ħ=6.582119514E-16
-// Boltzmann’s constant (eV⋅K-1)
-k=8.6173324E-5
-// Avogadro’s constant 	(mol−1)
-NA=6.022140857E23
-// Mass of an electron 	(kg)
-mₑ=9.10938291E-31
-//Mass of a proton (kg)
-mₚ=1.672621777E-27
-// Mass of a neutron(kg)
-mₙ=1.674927351E-27
-//Permittivity of free space (F/m)
-ε₀=8.854187817E-12
-//Permeability of free space(N⋅A-2)
-μ₀=π*4E-7
-//Bohr radius (m)
-a₀=5.2917721092E-11
-buttonstroke(3,0,0,-70) >> stroke: 3,0,0,-70
-buttongradient(26.0,5,-40,-10) >> gradient:  26.0,5,-40,-10
-backgroundshift(-20) >> background shift:  -20
-inputbackground(Azure) >> background color to Azure
-quizsound(on)
-favorite(FVinvest) >> favorite app. = FVinvest
-Bn(n,p,x)=C(n,x)*p^x*q^(n-x)
-Bncdf(n,p,s,x)=summ(Bn(n,p,v),v,s,x)
-poi(x)=mˣ/(eᵐ*!(x))
+ 
 eweb@brand88.com
 eweb@brand88.com
 =5.2917721092E-11=8.854187817E-12eweb@
