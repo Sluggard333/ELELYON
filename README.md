@@ -1,5 +1,4 @@
-    
-<!doctypehtml>  <html>  <head>  <title>
+    <!doctypehtml>  <html>  <head>  <title>
     </title>
         </head>
        </body>
@@ -9,7 +8,6 @@
           <H2>
                     <strong>
                 <em>
-
  Speed of light (m⋅s-1)
 c=299792458
  Charge of an electron (C)
