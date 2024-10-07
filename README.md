@@ -6,12 +6,11 @@
    This is the <b> best web-site </b> ever<spanstyle=font-family times>
    This is the Times font.and <i> this is italics </i>•</font> c:\unix.OSX-home.html<div>&<spanCSS<a>ID<dior<span>
 Textlink:
-<ahref="https://techterms.com/definitions/computers"><imgsrc="/images/computer.jpg"alt=desktopPC"> </a>"a"<a>"href"<a> for hyper-X-text
+<ahref="https://techterms.com/definitions/computers"><imgsrc="/images/computer.jpg"alt=desktopPC"></a>"a"<a>"href"<a>"for hyper-X-text
 “https://are secure.404 error code
 200 webpage found 301 file moved
 “Speed of light (m⋅s-1)c=299792458
-“Charge of an electron (C)
-q=1.602176565E-19.Universal.gravitational constant(N⋅m2/kg2)G=6.67384E-11
+“Charge of an electron(C);q=1.602176565E-19.Universal.gravitational constant(N⋅m2/kg2)G=6.67384E-11
 “Planck’s constant(eV⋅s)
 h=4.135667662E-15
 “Dirac’s constant(eV⋅s)
