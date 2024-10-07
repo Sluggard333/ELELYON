@@ -1,35 +1,95 @@
-    <!doctypehtml>  <html>  <head>  <title>
-    </title>
-        </head>
-       </body>
-             </html>
-        <p>
-              </p>
-          <H2>
-                    <strong>
-                <em>
-This is the <b> best web-site </b> ever<spanstyle="font-family times">
-This is the Times font.and <i> this is 
-italics </i>•</font> c:\unix/OSX"home.html,"
-<div> & <span CSS <a> ID <di or <span>
-Textlink:<ahref="https://techterms.com/definitions/computers"><imgsrc="/images/computer.jpg"alt="desktopPC"></a>"a"<a>"href"<a> for hypertext
+    
+<!doctypehtml>  
+
+<html>  
+
+<head>  
+
+<title>
+    
+</title>
+        
+</head>
+       
+</body>
+             
+</html>
+        
+<p>
+              
+</p>
+         
+<H2>
+                    
+<strong>
+                
+<em>
+
+This is the
+
+ <b> best web-site 
+
+</b> ever
+
+<spanstyle="font-family times">
+
+This is the Times font.and 
+
+<i> this is 
+italics 
+
+</i>•
+
+</font> 
+
+c:\unix/OSX"home.
+
+html,"
+
+<div> & 
+
+<span CSS 
+
+<a> ID 
+
+<di or 
+
+<span>
+
+Textlink:
+<ahref="
+https://techterms.com/definitions/computers"><imgsrc="/images/computer.jpg"alt="
+desktopPC">
+</a>"a"
+<a>"href"
+<a> for 
+hyper-X-text
+
 https://are secure.404 error code
 200 webpage found 301 file moved
  Speed of light (m⋅s-1)c=299792458
- Charge of an electron (C)
+ 
+Charge of an electron (C)
 q=1.602176565E-19.Universal.gravitational constant(N⋅m2/kg2)G=6.67384E-11
+
  Planck’s constant(eV⋅s)
 h=4.135667662E-15
+
  Dirac’s constant(eV⋅s)
 ħ=6.582119514E-16
+
  Boltzmann’s constant(eV⋅K-1)
 k=8.6173324E-5
+
  Avogadro’s constant(mol−1)
 NA=6.022140857E23
+
  Mass of an electron(kg)
 mₑ=9.10938291E-31
+
 Mass of a proton(kg)
 mₚ=1.672621777E-27
+
  Mass of a neutron(kg)
 mₙ=1.674927351E-27
 
@@ -37,19 +97,40 @@ mₙ=1.674927351E-27
 
 of free space(F/m)
 ε₀=8.854187817E-12
+
 Permeability of free space(N⋅A-2)
 μ₀=π*4E-7 Bohr radius (m)
 a₀=5.2917721092E-11
+
 ﻿clear()r=DiscountRate/100
 NPV(r)=CashArrival*(1-1/(1+r)^Periods)/r-InvestAmount.NPV=NPV(r)
+
 IRR=solve(NPV(x),x,0.0001)*100
-dialog(NPV/IRR fixed.Net Present Value and Internal Rate of Return with fixed cash arrival. DiscountRate and IRR in %per.period.,InvestAmount,DiscountRate,Periods,CashArrival, Results,NPV,IRR)clear()>>()is invalid operator r=DiscountRate/100
+dialog(NPV/IRR fixed.
+
+Net Present Value and Internal Rate of Return with fixed cash arrival. DiscountRate and IRR in %per.period.,
+
+InvestAmount,DiscountRate,Periods,CashArrival, Results,NPV,IRR)clear()>>
+()is invalid operator
+ r=DiscountRate/100
+
 NPV(r)=CashArrival*(1-1/(1+r)^Periods)/r-InvestAmount
 NPV=NPV(r)
-IRR=solve(NPV(x),x,0.0001)*100
-dialog(NPV/IRR fixed.Net Present Value and Internal Rate of Return with fixed cash arrival. DiscountRate and IRR in %per.period.,InvestAmount,DiscountRate,Periods,CashArrival,// Results //,NPV,IRR) >> Dialog
-buttonstroke(3,0,0,-70)>>stroke:3,0,0,-70.buttongradient(26.0,5,-40,-10)>>gradient:26.0,5,-40,-10
-backgroundshift(-20)>>background shift:-20.inputbackground(Azure)>>background color to Azure
+IRR
+
+solve(NPV(x),x,0.0001)*100
+dialog(NPV/IRR fixed.Net Present Value and Internal Rate of Return with fixed cash arrival. 
+DiscountRate and IRR in %per.period.,
+
+InvestAmount,DiscountRate,Periods,CashArrival,Results,NPV,IRR) >>
+
+ Dialog
+buttonstroke(3,0,0,-70)>>
+stroke:3,0,0,-70.buttongradient(26.0,5,-40,-10)>>
+gradient:26.0,5,-40,-10
+
+backgroundshift(-20)>>
+background shift:-20.inputbackground(Azure)>>background color to Azure
 quizsound(on)
 favorite(FVinvest)>>favorite app=FVinvest
 Bn(n,p,x)=C(n,x)*p^x*q^(n-x)
@@ -59,24 +140,37 @@ ver(Feb.2022)>>ver=Feb.2022
 buttonstroke(3,0,0,-70)>>stroke:3,0,0,-70.buttongradient(26.0,5,-40,-10) >> gradient:26.0,5,-40,-10
 backgroundshift(-20)>>background shift:-20.inputbackground(Azure) >> background color to Azure
 quizsound(on)
-favorite(FVinvest) >> favorite app. = FVinvest.ver(Feb.2022)>>ver=Feb.2022
+favorite(FVinvest) >> 
+favorite app. = 
+FVinvest.ver(Feb.2022)>>
+
+ver=Feb.2022
 q=1-p.s=0 Bn(n,p,x)=C(n,x)*p^x*q^(n-x)
 Bncdf(n,p,s,x)=summ(Bn(n,p,v),v,s,x)
 poi(x)=mˣ/(eᵐ*!(x))
-a=0i^1+a1=Speed of light(m⋅s-1)
+a=0i^1+a1=
+
+Speed of light(m⋅s-1)
 c=299792458 Charge of an electron (C)
 q=1.602176565E-19
+
  Universal gravitational constant(N⋅m2/kg2)G=6.67384E-11
+
  Planck’s constant(eV⋅s)
 h=4.135667662E-15
- Dirac’s constant(eV⋅s)
-ħ=6.582119514E-16 Boltzmann’s constant (eV⋅K-1)k=8.6173324E-5
- Avogadro’s constants	(mol−1)
+ 
+Dirac’s constant(eV⋅s)
+ħ=6.582119514E-16
+
+ Boltzmann’s constant (eV⋅K-1)k=8.6173324E-5
+ 
+Avogadro’s constants	(mol−1)
 NA=6.022140857E23
 Mass of an electron(kg)
 mₑ=9.10938291E-31
 Mass of a proton(kg)
 mₚ=1.672621777E-27
+
  Mass of a neutron(kg)
 mₙ=1.674927351E-27
 Permittivity of free space(F/m)
@@ -84,26 +178,49 @@ Permittivity of free space(F/m)
 Permeability of free space(N⋅A-2)
 μ₀=π*4E-7 Bohr radius(m)
 a₀=5.2917721092E-11
-fixed.Netbuttonstroke(3,0,0,-70)>> stroke: 3,0,0,-70
+fixed.
+
+Netbuttonstroke(3,0,0,-70)>> stroke: 3,0,0,-70
 buttongradient(26.0,5,-40,-10)>> gradient:26.0,5,-40,-10
 backgroundshift(-20)>>background shift:-20
-inputbackground(Azure)>>background color to Azure(on)favorite(FVinvest)>>favorite app=FVinvest.Bn(n,p,x)=C(n,x)*p^x*q^(n-x)Bncdf(n,p,s,x)=summ(Bn(n,p,v),v,s,x)
-poi(x)=mˣ/(eᵐ*!(x))
-ver(Feb.2022)>>ver=Feb.2022
-buttonstroke(3,0,0,-70)>>stroke:3,0,0,-70 buttongradient
+
+inputbackground(Azure)>>
+background color to Azure(on)favorite(FVinvest)>>favorite app=FVinvest.
+Bn(n,p,x)=C(n,x)*p^x*q^(n-x)
+Bncdf(n,p,s,x)
+summ(Bn(n,p,v),v,s,x)
+poi(x)
+mˣ/(eᵐ*!(x))
+
+ver(Feb.2022)>>
+ver=Feb.2022
+buttonstroke(3,0,0,-70)>>
+stroke:3,0,0,-70
+ buttongradient
+
 (26.0,5,-40,-10)>>
 gradient:26.0,5,-40,-10
 backgroundshift
+
 (-20)>>background shift:-20
 inputbackground(Azure)>>background color to Azure
+
 quizsound(on)
-favorite(FVinvest)>>favorite app= FVinvest.ver(Feb.2022)>>ver=Feb.2022
+favorite(FVinvest)>>favorite app= FVinvest.ver(Feb.2022)>>
+
+ver=Feb.2022
 q=1-p s=0.Bn(n,p,x)=C(n,x)*p^x*q^(n-x)
-Bncdf(n,p,s,x)=summ(Bn(n,p,v),v,s,x)
+Bncdf(n,p,s,x)
+
+summ(Bn(n,p,v),v,s,x)
 poi(x)=mˣ/(eᵐ*!(x))a=0.i^1+a1=
- eweb@brand88.comeweb.@brand88.com
+ eweb@brand88.com
+eweb.@brand88.com
+
 =5.2917721092E-11=8.854187817E-12eweb@
+
 https://brand88.com
+
 =1.674927351E-27=1.672621777E-272022fixed.Net:Integer's 1:0≤p(x)≤=x,20+1=1
 $1,11,111,1111,\1.11... 1100... 00
 (A-b)Mod-2017=0 where
@@ -144,8 +261,113 @@ Density Function).Select one,single side normal,dialog(single side tail normal C
 
      #See here for image contents": 
 
-https://github.com/microsoft/vscode-dev-containers/blob/main/containers/javascript-node/.devcontainer/base.Dockerfile#[Choice] Node.js version
+https://github.com/microsoft/vscode-dev-containers/blob/main/containers/javascript-node/.devcontainer/base.Dockerfile#[Choice] 
+
+Node.js version
 ARG VARIANT="18-buster"
-FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${VARIANT}#[Optional] Uncomment this section to install additional OS packages.#RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
+FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:0-${VARIANT}#[Optional] Uncomment this section to install additional OS packages.
+
+#RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
+
 #&&.apt-get-y.install--no-install-recommends<your-package-list-here>#[Optional]Uncomment if you want to install an additional version of node using nvm
+
 #ARG EXTRA_NODE_VERSION=10
+go run ./main.godata := map[string]map[string]interface{}{
+  "point1": {
+    "location": "Klamath",
+    "species":  "bees",
+    "count":    23,
+  },
+  "point2": {
+    "location": "Portland",
+    "species":  "ants",
+    "count":    30,
+  },
+  "point3": {
+    "location": "Klamath",
+    "species":  "bees",
+    "count":    28,
+  },
+  "point4": {
+    "location": "Portland",
+    "species":  "ants",
+    "count":    32,
+  },
+  "point5": {
+    "location": "Klamath",
+    "species":  "bees",
+    "count":    29,
+  },
+  "point6": {
+    "location": "Portland",
+    "species":  "ants",
+    "count":    40,
+  },
+}
+
+ Write data
+options := influxdb3.WriteOptions{
+  Database: database,
+}
+for key := range data {
+  point := influxdb3.NewPointWithMeasurement("census").
+    AddTag("location", data[key]["location"].(string)).
+    AddField(data[key]["species"].(string), data[key]["count"])
+
+  if err := client.WritePointsWithOptions(context.Background(), &options, point); err != nil {
+    panic(err)
+  }
+
+  time.Sleep(1 * time.Second) // separate points by 1 second
+}
+
+23,
+  },
+  "point230,
+  },
+  "point328,
+  },
+  "point432,
+  },
+  "point529,
+  },
+  "point61package main
+
+import (
+    "context"
+    "fmt"
+    "time"
+
+    "github.com/InfluxCommunity/influxdb3-go/influxdb3"
+)
+
+func main() {
+     Create client
+    url := "https://us-east-1-1.aws.cloud2.influxdata.com"
+    token := os.Getenv("INFLUXDB_TOKEN")
+
+     Create a new client using an InfluxDB server base URL and an authentication token
+    client, err := influxdb3.New(influxdb3.ClientConfig{
+      Host:  url,
+      Token: token,
+    })
+    if err != nil {
+      panic(err)
+    }
+     Close client at the end and escalate error if present
+    defer func (client *influxdb3.Client)  {
+      err := client.Close()
+      if err != nil {
+        panic(err)
+      }
+    }(client)
+
+    ##database := "Yahuah"
+}github.com/InfluxCommunity/influxdb3-go/influxdb3
+
+https://us-east-1-1.aws.cloud2.influxdata.comexport 
+
+##INFLUXDB_TOKEN=b3GGhzMKSn9WSDhawb85Dg4PBXqMJ9ipietzsYsm03V7qmApSygqj28riJAqpBUAjVR_FzrotWRyoTymkbjtXA==go 
+get 
+
+github.com/InfluxCommunity/influxdb3-gogithub.com/InfluxCommunity/influxdb3-go
