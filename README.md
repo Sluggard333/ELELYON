@@ -3,7 +3,7 @@
    </title> </head> </body> </html>
         <p>  </p> <H> <strong>
                 <em>
-   #This is the <b> best web-site </b> ever <spanstyle="font-family times">
+   This is the <b> best web-site </b> ever <spanstyle="font-family times">
    This is the Times font.and <i> this is italics </i>•</font> c:\unix.OSX"home.html <div> & <span CSS
  <a> ID <di or <span>
 Textlink:
