@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<title>TechTerms.com</title>
+</head>
+<body>
+<p>This is an example of a paragraph in HTML.</p>
+</body>
+</html><header>	Defines the webpage header
+<footer>	Defines the page footer
+<nav>	Defines the navigation bar
+<main>	Defines the main content of a webpage
+<article>	Defines an article within a page
+<section>	Defines a section of a document or article
+<aside>	Defines content outside a page's primary content
+IEEE 1284 (Parallel Port) – an I/O interface used by early desktop PCs
+IEEE 1394 (Firewire) – a high-speed interface designed for external hard drives, digital video cameras, and other A/V peripherals
+IEEE 802.11 (Wi-Fi) – a series of Wi-Fi standards used for wireless networking
+IEEE 802.16 (WiMAX) – a wireless communications standard for transferring cellular data:
+IEEE 1284
+The parallel port was eventually standardized by the IEEE as "IEEE 1284." This standard defined new versions of the parallel port, including the Enhanced Parallel Port (EPP) and the Extended Capability Port (ECP). EPP could transmit data up to 16 Mbps (2 MB/s). ECP could achieve data transfer rates close to 20 Mbps or 2.5 MB/s via an ISA bus
+Zip Compression Ratio
+How much a file can be compressed depends on the original data. For example, a plain text file can be compressed much more than a JPEG image file, since JPEG data is already compressed. Zipping a text file might generate an archive that is only 25% of the original file size, while a zipped JPEG file may still be 95% of its original size.
+
+NOTE: "Zip" also refers to a removable storage device made by Iomega during the 1990s and early 2000s. The original Zip drive supported 100 megabyte removable Zip disks — significantly more than the 1.44 MB floppy disk alternative. Later models supported 250 and 750 MB disks. The popularity of Zip disks faded as hard drive costs declined and the storage capacity of portable flash drives increased.
+Accessing the UEFI
+The UEFI is designed for advanced users, so by default it is not displayed during the startup process. The standard way to load the UEFI on most Windows PCs is to press the F2 key when the computer is starting up. Typically, you should press the key when the manufacturer's logo (such as "Dell" or "HP") appears. In Windows 8 and 10, you can also use the Troubleshoot option to enable "UEFI Firmware Settings" before the next restart.
+
+Configuration options provided in the UEFI vary depending on the manufacturer and computer model. Typically, you can perform administrator tasks like formatting and partitioning storage devices. You may also be able to change your boot disk and activate or deactivate specific peripherals. Some systems even allow you to overclock your CPU or run your PC in a low-power "eco-friendly" mode.
+AND - True if A and B are both True
+OR - True if either A or B are True
+NOT - Inverts value: True if input is False; False if input is True
+XOR - True if either A or B are True, but False if both are True
+NAND - AND followed by NOT: False only if A and B are both True
+NOR - OR followed by NOT: True only if A and B are both False
+XNOR - XOR followed by NOT: True if A and B are both True or both False
+Why 
+    XHTML?
+As HTML evolved over the first few decades of the web, browsers became increasingly lenient in how they parsed webpage source code. The result was that websites were rendered inconsistently between browsers. One of the main goals of XHTML was to ensure webpages looked the same across multiple browsers.
+
+Since XHTML is based on XML rather than HTML, webpages coded in XHTML must conform to a strict XML syntax. A webpage that uses the "XHTML Strict" doctype (DTD) cannot contain any errors or invalid tags, leaving no ambiguity for the web browser. However, most XHTML sites used the "XHTML Transitional" doctype, which does not require perfect syntax and even allows HTML 4.01 tags.
+
+From 2001 to about 2011, XHTML was the standard markup language for web development. Some developers used a strict XHTML DTD, though most used transitional doctype. Since most web developers preferred a more flexible language, the web eventually transitioned back to HTML. In 2014, HTML5 was officially recommended by the W3C. Most modern browsers still support both HTML and XHTML.
+  It might look something like this:
+
+function double(x)
+{
+  $y = 2 * x;
+  return $y;
+}
+
+The above example is a very basic function. Most functions used in computer programs include several lines of instructions and may even reference other functions. A function may also reference itself, in which case it is called a recursive function. Some functions may require no parameters, while others may require several. While it is common for functions to return variables, many functions do not return any values, but instead output data as they run.
+function Count (integer N)
+    if (N <= 0) return "Must be a Positive Integer";
+    if (N > 9) return "Counting Completed";
+    else return Count (N+1);
+end function
+Web – a collection of billions of webpages that you can view with a web browser
+Email – the most common method of sending and receiving messages online
+Social media – websites and apps that allow people to share comments, photos, and videos
+Online gaming – games that allow people to play with and against each other over the Internet
+Software updates – operating system and application updates can typically downloaded from the Internet
