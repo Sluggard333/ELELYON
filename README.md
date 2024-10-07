@@ -3,26 +3,24 @@
    </title> </head> </body> </html>
         <p>  </p> <H> <strong>
                 <em>
-   This is the <b> best web-site </b> ever <spanstyle="font-family times">
-   This is the Times font.and <i> this is italics </i>•</font> c:\unix.OSX"home.html <div> & <span CSS
- <a> ID <di or <span>
+   This is the <b> best web-site </b> ever<spanstyle=font-family times>
+   This is the Times font.and <i> this is italics </i>•</font> c:\unix.OSX-home.html<div>&<spanCSS<a>ID<dior<span>
 Textlink:
-<ahref="https://techterms.com/definitions/computers"><imgsrc="/images/computer.jpg"alt=desktopPC"> </a>"a"<a>"href"<a> 
-for hyper-X-text
-https://are secure.404 error code
+<ahref="https://techterms.com/definitions/computers"><imgsrc="/images/computer.jpg"alt=desktopPC"> </a>"a"<a>"href"<a> for hyper-X-text
+“https://are secure.404 error code
 200 webpage found 301 file moved
- Speed of light (m⋅s-1)c=299792458
- Charge of an electron (C)
+“Speed of light (m⋅s-1)c=299792458
+“Charge of an electron (C)
 q=1.602176565E-19.Universal.gravitational constant(N⋅m2/kg2)G=6.67384E-11
-Planck’s constant(eV⋅s)
+“Planck’s constant(eV⋅s)
 h=4.135667662E-15
-Dirac’s constant(eV⋅s)
+“Dirac’s constant(eV⋅s)
 ħ=6.582119514E-16
-Boltzmann’s constant(eV⋅K-1)
+“Boltzmann’s constant(eV⋅K-1)
 k=8.6173324E-5
-Avogadro’s constant(mol−1)
-NA=6.022140857E23
-Mass of an electron(kg)mₑ=9.10938291E-31.Mass of a proton(kg)mₚ=1.672621777E-27.Mass of a neutron(kg)mₙ=1.674927351[{Permittivity}! 
+“Avogadro’s constant(mol−1)
+“NA=6.022140857E23
+“Mass of an electron(kg)mₑ=9.10938291E-31.Mass of a proton(kg)mₚ=1.672621777E-27.Mass of a neutron(kg)mₙ=1.674927351[{Permittivity}! 
 of free space(F/m)ε₀=8.854187817E-12
 Permeability of free space(N⋅A-2)
 μ₀=π*4E-7 Bohr radius (m)
