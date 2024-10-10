@@ -50,7 +50,13 @@ Private Feed for the [YAHWEH RAAH] Organization
   &amp;amp;lt;/element&amp;amp;gt;
 &amp;amp;lt;element&amp;amp;gt;&amp;amp;lt;/element&amp;amp;gt;
 &amp;amp;lt;root&amp;amp;gt;&amp;amp;lt;?xml version="1.0" encoding="UTF-8"?&amp;amp;gt;&amp;amp;lt;root&amp;amp;gt;
-
+  &amp;lt;/yahxml&amp;gt;
+&amp;lt;/root&amp;gt;.[0][1][0][0].yahxml[1].[0][1][0][0].yahxml[0]&amp;lt;?xml version="1.0" encoding="UTF-8"?&amp;gt;
+&amp;lt;root&amp;gt;
+  &amp;lt;element array="true" empty-array="true"&amp;gt;&amp;lt;/element&amp;gt;
+  &amp;lt;element&amp;gt;&amp;lt;/element&amp;gt;
+&amp;lt;/root&amp;gt;&amp;lt;?xml version="1.0" encoding="UTF-8"?&amp;gt;
+&amp;lt;root&amp;gt;
 
 
 
