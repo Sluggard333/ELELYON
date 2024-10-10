@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE"content="text/html;charset=UTF-8">
@@ -7,9 +6,10 @@
   <title>Welcome</title>
 </head>
 <body>
-  <h2 style="text-align:center;">
-    Welcome
-  </h2>
+  <h2 style="text-align:center;"></h2>
+
+           ["Welcome"]  
+
   This yahwehraah web page.<br>
   The page is written in html, to see its markup and edit it click the edit button at the top of the screen.<br>
   You can open html, css and javascript files using the file manager.<br>
