@@ -18,43 +18,40 @@
     
        [selector:matchLabels:]
 
-            [app:influxdb]
+          [app:influxdb]
    
        [serviceName:[influxdb]
     
-    template:metadata:
+    [template:metadata:labels:]
 
-            labels:
-                app:      [influxdb]
-        spec:
-            containers:
-              - image:   
+           [app:influxdb]
+        
+[spec:containers:]
+              image:   
 
    [influxdb:2.0.6]
                 
 name: [influxdb]
                
- ports:
-                  - containerPort: [8086]
-                    name:  [influxdb]
-               
- volumeMounts:
-                  - mountPath: 
-    [/var/lib/influxdb2]
+ [ports:containerPort:[8086]
+                    
+ [name:influxdb]volumeMounts:]
+                  
+[mountPath/var/lib/influxdb2]
                    
- name:          [data]
+          [name:data]
     
-volumeClaimTemplates:
-      - metadata:
-            name:    [data]
+ [volumeClaimTemplates:metadata:]
+           
+           [name:data]
             
-namespace:      [influxdb]
-        spec:
-            accessModes:
-              - ReadWriteOnce
-            resources:
-                requests:
-                    storage:    [10G]
+       [namespace:influxdb]
+
+        [spec:accessModes:]
+
+      [ReadWriteOnce:resources:]
+               
+        [requests:storage:10G]
 ---
 apiVersion:    [v1]
 
