@@ -1,5 +1,4 @@
-       ---
-   [apiVersion:v1kind:Namespace]
+    [apiVersion:v1kind:Namespace]
 
        [metadata:name:influxdb]
 ---
