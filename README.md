@@ -1,10 +1,7 @@
        ---
-apiVersion: v1
-kind:              [Namespace]
+   [apiVersion:v1kind:Namespace]
 
-metadata:
-    name: 
-                  [influxdb]
+       [metadata:name:influxdb]
 ---
 apiVersion:   [apps/v1]
 
