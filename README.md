@@ -6,12 +6,11 @@
 
         [kind:StatefulSet]
 
-metadata:
-    labels:
+         [metadata:labels:]
             
- [app:influxdb]
+          [app:influxdb]
     
-      [name:influxdb]
+          [name:influxdb]
     
        [namespace:influxdb]
 
@@ -19,11 +18,12 @@ metadata:
     
        [selector:matchLabels:]
 
-            app:      [influxdb]
+            [app:influxdb]
    
- serviceName:           [influxdb]
-    template:
-        metadata:
+       [serviceName:[influxdb]
+    
+    template:metadata:
+
             labels:
                 app:      [influxdb]
         spec:
