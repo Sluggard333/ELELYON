@@ -1,21 +1,24 @@
     [apiVersion:v1kind:Namespace]
 
        [metadata:name:influxdb]
----
-apiVersion:   [apps/v1]
 
-kind:          [StatefulSet]
+         [apiVersion:apps/v1]
+
+        [kind:StatefulSet]
+
 metadata:
     labels:
-        app:        [influxdb]
+            
+ [app:influxdb]
     
-name:         [influxdb]
+      [name:influxdb]
     
-namespace:       [influxdb]
-spec:
-    replicas:    [1]
-    selector:
-        matchLabels:
+       [namespace:influxdb]
+
+        [spec:replicas:[1]
+    
+       [selector:matchLabels:]
+
             app:      [influxdb]
    
  serviceName:           [influxdb]
