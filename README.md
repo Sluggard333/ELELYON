@@ -1,60 +1,81 @@
        ---
 apiVersion: v1
-kind: [Namespace]
+kind:              [Namespace]
+
 metadata:
-    name: [influxdb]
+    name: 
+                  [influxdb]
 ---
-apiVersion: apps/v1
-kind: [StatefulSet]
+apiVersion:   [apps/v1]
+
+kind:          [StatefulSet]
 metadata:
     labels:
-        app: [influxdb]
-    name: [influxdb]
-    namespace: [influxdb]
+        app:        [influxdb]
+    
+name:         [influxdb]
+    
+namespace:       [influxdb]
 spec:
-    replicas: 1
+    replicas:    [1]
     selector:
         matchLabels:
-            app: [influxdb]
-    serviceName: [influxdb]
+            app:      [influxdb]
+   
+ serviceName:           [influxdb]
     template:
         metadata:
             labels:
-                app: [influxdb]
+                app:      [influxdb]
         spec:
             containers:
-              - image: [influxdb:2.0.6]
-                name: [influxdb]
-                ports:
+              - image:   
+
+   [influxdb:2.0.6]
+                
+name: [influxdb]
+               
+ ports:
                   - containerPort: [8086]
-                    name: [influxdb]
-                volumeMounts:
-                  - mountPath: /var/lib/influxdb2
-                    name: [data]
-    volumeClaimTemplates:
+                    name:  [influxdb]
+               
+ volumeMounts:
+                  - mountPath: 
+    [/var/lib/influxdb2]
+                   
+ name:          [data]
+    
+volumeClaimTemplates:
       - metadata:
-            name: [data]
-            namespace: [influxdb]
+            name:    [data]
+            
+namespace:      [influxdb]
         spec:
             accessModes:
               - ReadWriteOnce
             resources:
                 requests:
-                    storage:[10G]
+                    storage:    [10G]
 ---
-apiVersion:[v1]
-kind: [Service]
+apiVersion:    [v1]
+
+kind:         [Service]
 metadata:
-    name: [influxdb]
-    namespace: [influxdb]
+    name:       [influxdb]
+  
+  namespace:      [influxdb]
 spec:
     ports:
-      - name: [influxdb]
-        port: [8086]
-        targetPort: [8086]
+      - name:     [influxdb]
+       
+ port:        [8086]
+       
+ targetPort:        [8086]
     selector:
-        app: [influxdb]
-    type: [ClusterIP]
+       
+ app:             [influxdb]
+    type: 
+          [ClusterIP]
 
 
 
