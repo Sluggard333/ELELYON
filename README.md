@@ -208,18 +208,16 @@ dist
 
 # TernJS port file
 .tern-port
-
-# Stores VSCode versions used for testing VSCode extensions
+#Stores VSCode versions used for testing VSCode extensions
 .vscode-test
-
-# yarn v2
+#yarn v2
 .yarn/cache
 .yarn/unplugged
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
 
-           ["Welcome"]  
+                               ["Welcome"]  
 
   This yahwehraah web page.<br>
   The page is written in html, to see its markup and edit it click the edit button at the top of the screen.<br>
@@ -233,9 +231,8 @@ dist
   <link type="text/html"rel="alternate
 
 "href="https://github.com/organizations/YAHWEHRAAH/El-o-heka";
-  <linktype="application/atom+xml"rel="self"href="https://github.com/organizations/YAHWEHRAAH/El-o-heka.private.atom?token=BHYISWUWJQU3BSX74BV4JXWFCQCRC"/>
-  
-<title>
+<linktype="application/atom+xml"rel="self"href="https://github.com/organizations/YAHWEHRAAH/El-o-heka.private.atom?token=BHYISWUWJQU3BSX74BV4JXWFCQCRC"/>
+ <title>
 Private Feed for the [YAHWEH RAAH] Organization
 </title>
   <updated>2024-04-11T15:29:55-05:00</updated>
@@ -279,7 +276,6 @@ encoding="UTF-8"&amp;gt;&amp;lt;root&amp;gt;
               ("Data-Base")
 
                ("Yahuah")
-
 “https://github.com/InfluxCommunity/influxdb3-go/influxdb3
 us-east-1-1.aws.cloud2.influxdata.comexport.”INFLUXDB_TOKEN=b3GGhzMKSn9WSDhawb85Dg4PBXqMJ9ipietzsYsm03V7qmApSygqj28riJAqpBUAjVR_FzrotWRyoTymkbjtXA==go 
 get github.com/InfluxCommunity/influxdb3-gogithub.com/InfluxCommunity/influxdb3-go
@@ -306,9 +302,9 @@ get github.com/InfluxCommunity/influxdb3-gogithub.com/InfluxCommunity/influxdb3-
         "params=params";
         "headers=headers";
     ").json()";
-    "API-Key:https://api.etherscan.io/api?module=contract&action;=get:api&address;=0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413&api=key=your:api:token";
-    "Token.ID:1394585667395972288694948245689498922283274848933673043521844775304531681298";
-    "Hash.no:0x1ed5133d843db67759659aa4b6a429c04b3c87cd364a2ec1ddf433d95b28a012-crypto,EHS:single.chain,Record=address:0x38d31fa5b971e5e75dc8e7cb38219fb342164c6d";
+"API-Key:https://api.etherscan.io/api?module=contract&action;=get:api&address;=0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413&api=key=your:api:token";
+"Token.ID:1394585667395972288694948245689498922283274848933673043521844775304531681298";
+"Hash.no:0x1ed5133d843db67759659aa4b6a429c04b3c87cd364a2ec1ddf433d95b28a012-crypto,EHS:single.chain,Record=address:0x38d31fa5b971e5e75dc8e7cb38219fb342164c6d";
     "referral,4hxjr54h=multichain=promo,code:ESFP15Q223";
 "results = get_ai_snippets_for_query(reasons to smile)";
 "java.lang: input string:n f (50) + t >>";
