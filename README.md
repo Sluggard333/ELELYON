@@ -52,7 +52,7 @@ name: [influxdb]
       [ReadWriteOnce:resources:]
                
         [requests:storage:10G]
----
+```---
 apiVersion:    [v1]
 
 kind:         [Service]
