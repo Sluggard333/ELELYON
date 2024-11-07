@@ -1543,11 +1543,18 @@ get github.com/InfluxCommunity/influxdb3-gogithub.com/InfluxCommunity/influxdb3-
     </__HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ__element__EA__array__HU____EI__true__EI____HY____BI____EA____EA____EA____EA____HQ__root__HY____cKEIK____HQ____Fc__root__HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____HQ____Fc__element__HY____BI____HQ____Fc__root__HY__>
   </__HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY__>
 </__HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ__element__EA__array__HU____EI__true__EI____HY____BI____EA____EA____EA____EA____HQ__root__HY____cKEIK____HQ____Fc__root__HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ__element__EA__array__HU____EI__true__EI____HY____BI____EA____EA____EA____EA____HQ__root__HY____cKEIK____HQ____Fc__root__HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____HQ____Fc__element__HY____BI____HQ____Fc__root__HY____EA__array__HU____EI__true__EI____HY____BI____EA____EA____EA____EA____EA____EA____EA____EA____HQ__root__HY____cKEIK____HQ____Fc__root__HY____BI____EA____EA____EA____EA____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____EA____EA____EA____EA____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ__element__EA__array__HU____EI__true__EI____HY____BI____EA____EA____EA____EA____HQ__root__HY____cKEIK____HQ____Fc__root__HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____HQ____Fc__element__HY____BI____HQ____Fc__root__HY____HY____BI____EA____EA____EA____EA____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____HQ____Fc__element__HY____BI____HQ____Fc__root__HY____FQ__-__Ec__1__EI____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ__element__EA__array__HU____EI__true__EI____HY____BI____EA____EA____EA____EA____HQ__root__HY____cKEIK____HQ____Fc__root__HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____HQ____Fc__element__HY____BI____HQ____Fc__root__HY____BI____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____HQ____Fc__root__HY____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____HQ____Fc__root__HY____HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__1__HY____EI__ABC__EI____BI____HQ____Fc__1__HY____HY____EI__ABC__EI____BI____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__1__HY____EI__ABC__EI____BI____HQ____Fc__1__HY____HY____BI____EA____EA____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____HQ____Fc__root__HY____HY____BI____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____HQ____Fc__root__HY__.__HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__1__HY____EI__ABC__EI____BI____HQ____Fc__1__HY____HY____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____HQ____Fc__root__HY__.__HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__1__HY____EI__ABC__EI____BI____HQ____Fc__1__HY____HY____BI____EA____EA____HQ__1__HY____cKEIK____HQ____Fc__1__HY____BI____HQ____Fc__root__HY____LM__0__LU__.root__HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ__element__EA__array__HU____EI__true__EI____HY____BI____EA____EA____EA____EA____HQ__root__HY____cKEIK____HQ____Fc__root__HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____HQ____Fc__element__HY____BI____HQ____Fc__root__HY____EI__ABC__EI____BI____FQ__-__Ec__1__EI____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ__element__EA__array__HU____EI__true__EI____HY____BI____EA____EA____EA____EA____HQ__root__HY____cKEIK____HQ____Fc__root__HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____HQ____Fc____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____cKEIK____HQ____Fc__root__HY____HY____BI____EA____EA____HQ____Fc__element__HY____BI____HQ____Fc__root__HY____BI____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__HY____BI____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__EI____Hc____HY____BI____HQ__root__EA__empty-array__HU____EI__true__EI____HY____HQ____Fc__root__HY____HY____BI____EA____EA____EA____EA____HQ____HQ____Hc__xml__EA__version__HU____EI__1.0__EI____EA__encoding__HU____EI__UTF-8__>
-<!DOCTYPE,html>pussy<html>
+       <!DOCTYPE,html>pussy<html>
 <head>
-  <meta>http-equiv="CONTENT-TYPE"content="text/<html;charset=UTF-8">
+ <meta>
+http-equiv="CONTENT-TYPE"content="text/<html;charset=UTF-8">
   <link>rel="stylesheet"href="styles/style.css"/>
-  <title>Hello,Word!</title>
+
+  <title>
+
+              b Hello,Word!
+
+</title>
+
 </head>pluginManagement 
     {
     repositories
@@ -1580,7 +1587,9 @@ rootProject.name = "opencv-android"
 include ':app'
 include ':opencv'
 <body>
-  <h1>Hello,beautiful!pussy</h1>
+  <h1>
+        Hello,beautiful!pussy
+</h1>
 </body>
 </html>
 Binary,search,tree;
@@ -1611,81 +1620,58 @@ publc,boolean is valid BST.
     IPv4
   RFC: 
   24-Bit 
-  IP range:
-  10.0.0.0:
-    8088
-  no.of address:
-  16777216
-  block:
-  10.255.255.255
+  IP range:10.0.0.0:8088
+  no.of 
+address:16777216
+  block:10.255.255.255
   CIDR,block:
-  subnet:
-  10.0.0.0/8
+  subnet:10.0.0.0/8
     (255.0.0.0)
-  host:ID:
-  24 bits
-  mask,bits: 
-  8 bit
-  class no: 
-  Anstwork
+  host:ID:24 bits
+  mask,bits: 8 bit
+  class no:Anstwork
   corton commander
-  alternate DNS:
-  76.76.19.19.76.223.122.150
-  port:
-  53
-  protocal:
-  UDP:
-    144.202.20.89
-  Hostname:
-  bradford8
-  dnsflex-alt:
-  443
+  alternate DNS:76.76.19.19.76.223.122.150
+  port:53
+  protocal: Ethernet 
+UDP:144.202.20.89
+  Hostname:oneness
+  dnsflex-alt:443
   bradford80USA/web3 react
-  web: 
-    3 wallet
-  GPL:
-    3.0 license
-  owner:
+  web: 3 wallet
+  GPL:3.0 license
+  owner:Brandon Lee Bradford
     (ELBRANNON)
   bradford80USA/Jubliant octo trible
-  v6:
-    branch 
+  v6:branch 
   web 3 (beta)
-  local host:
-    3000
+  local host:3000+3001
   package example:
     cra local
-  host:
-  3001
+  host:3001
   use priorty webv3 react
-  IP:
-  127.0.0.1:8088
+  IP:127.0.0.1:8088
   Vmbraco
-  <https://github.com/evo/search/s/find/!/github/decode/error=delete
-    api.you.com
-    api@you.com.
-    x38gmvvg:
-    brand.com
+  <https://github.com/evo/search/s/find/!/github/decode/evo-15/api.you.com/api@you.com.x38gmvvg:
+    brand88.io.com
     eweb.development
     p.o.box.30015
     12051 no.1 road
     Richmond.Bcv7EIT5,
     canada+1.604.998.4455
-    <eweb@brand88>
+    
+<eweb@brand88>
       WicqN840sVVVBrsI      
-    </eweb@brand88>
+    
+</eweb@brand88>
     Civis@arstechnica.com
-    binary:
-    10011011²
-    hexidecimal:
-    0x9B
+    binary:10011011²
+    hexidecimal:0x9B
     base-36:4B
-    v0.4.18+ comment
-    .acf6e910
+    v0.4.18+comment.acf6e910
     Tether token
-    quanity:
-    107 tokens
-    19352 block
+    quanity:107 tokens
+    19352 block.
     mozilla/5.0 windows
     NT 10.0;win64x64
     Apple webkit/537.36
@@ -1715,15 +1701,12 @@ publc,boolean is valid BST.
         "ahref""a"jpg"
               </a>     
     </span>
-      [1,2,3,4,5,6], 
-      g(x)=Fx-1x
-      q(x,y)=Fyx=lyx
-      b(x,y)=fx²y=1x²y
-      C(x,ø)=xø
-      d(x,y)=y²x
-      e(x,y)=πxy=ø,0,2×3.14
-      h=curve((tan(tan-1(∅³);∅),(0≤∅≤ 6.28)
-      i=curve((tan(tan-¹(∅4∅!))=(tan(tan-¹(∅4∅!));∅),
+      [1,2,3,4,5,6],
+ 
+  g(x)=Fx-1x,q(x,y)=Fyx=lyx,b(x,y)=fx²y=1x²y,C(x,ø)=xø,d(x,y)=y²x,e(x,y)=πxy=ø,0,2×3.14,
+  
+h=curve((tan(tan-1(∅³);∅),(0≤∅≤ 6.28)
+i=curve((tan(tan-¹(∅4∅!))=(tan(tan-¹(∅4∅!));∅),
       PHI∅=1+√5/2≈1.618
       C:\unix
       OSX
@@ -1797,15 +1780,12 @@ Vtt = dx/dt = - A √ ksin ( k + 1 ) ²
 w/Qø 
 yahweh raphaiam: 
 (sin ² ( √ k + ) = 1 occurs at t = π/2π/3π/2√k/5π/2πk,
-[ RFC9110 ], [ RFC9651 ] 
-INCORPERATE: 
-HTTP/1.0 HTTP/1.1.FULLY,OPTIONAL FOR CLIENT
-HTTP SENDS SERVER A MESSAGE:
- [ HTTP ],
-[ 10 ],
-[ RFC3229 ] 
-Get/foo.html:
-HTTP/1.1
+[ RFC9110 ],
+[ RFC9651 ], 
+INCORPERATE:HTTP/1.0 HTTP/1.1.FULLY,OPTIONAL FOR CLIENT
+HTTP SENDS SERVER A MESSAGE:[ HTTP ],
+[ 10 ],[ RFC3229 ], 
+Get/foo.html:HTTP/1.1
 host: 
 bar:
 tetra-tek-AI-X.conet-X:
@@ -1867,48 +1847,7 @@ unit (t) = {0 if < 0 unit (i) is {1 if ≥ 0
   <docker>   
   </docker>
   $dockerbuild: 
-```https://github.com/user/myrepo.git#container/docker  clear(1(119898696933331116)55(^x65413+x9854896318855235552^)((1-65555>>//
-0.⁹99,0.⁸⁸⁸8,⁰.⁰0.0.⁷77+4+4+5+5*HΞΖζΠΘΨΧΥΥυΤτΣΣΖG555+³33+0.
-¹⁵⁹M >>
-  java.lang.NumberFormatException: For input string: "9nullnullnullnullnull888nullnull0null0nullnullnullnull
-7nullnull"
-(x!ΥυΥΛΛΓΒγβMLΔΖδΔγBΩΨΦΜΙΣ0.96336⁹Ζ.NI⁾)
-*⁶⁵⁴555 +Ε=
-  rand(1²³4/0.7457,⁶.⁺³²(1111×)*cos(sin
-(+¹6×0.(-405×⁹×98×97×90×8×80×87×889×987× >> (x!ΥυΥΛΛΓΒγβMLΔΖδΔγBΩΨΦΜΙΣ0.96336⁹Ζ.NI⁾)*⁶⁵⁴555 +)=rand(1²³4/0.7457,⁶.⁺³²(1111×)
-*cos(sin(+¹6×0.(-405×⁹×98×97×90×8×80×87×889×987×
-⁹Ζ.NI3clear() >>
-  vars and functions
- cleared
-equation solver
- f(x)=(x²-1)(x²-9)=(x+1)(x-1)
-(x+3)(x-3)
- answer: x=1,-1,3,-3
-f(x)=x⁴-10*x²+9
-guess=5
-solve(f(x),x,guess) >> 3
-find all answers
-solves(f(x),x,guess) >> 
-  Answers for f(x)=0
-x= 3.0
-x= -3.0
-x= 1.0
-x= -1.0
- missing or guess=0 can not find solution, 
-  if slope is zero at x=0
-solves(f(x),x,0) >> 
-  Answers for f(x)=0
-x= NaN
-solves(f(x),x,0.1) >> 
-  Answers for f(x)=0
-x= 1.0
-x= -1.0
-x= 3.03
-dialog(Equation Solver. Enter an equation with variable x and optional 
-  initial
-  value x₀.,f(x),x₀,
-  solves(f(x),x,x₀)) >> Dialog  
-fastapi
+```https://github.com/user/myrepo.git#
 uvicorn
 python-dotenv
 APP_ENV=development
