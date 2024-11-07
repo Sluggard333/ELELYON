@@ -10,10 +10,13 @@ You can open html, css and javascript files using the file manager.
 To create new files use the menu at the top left of the screen.
  This XML file does not appear to have any style information associated with it. 
 
-The document tree is shown below. The disclosure process for intellectual property rights (IPR) in documents produced within the IETF stream is essential to the accurate development of community consensus. 
+ The document tree is shown below. The disclosure process for intellectual property rights (IPR) in documents produced within the IETF stream is essential to the accurate development of community consensus. 
+ 
  However, this process is not always followed by IETF participants.     
  Regardless of the cause or motivation, noncompliance with IPR disclosure rules can delay or even derail completion of IETF specifications.
+
  This document describes some strategies for promoting compliance with the IPR disclosure rules. 
+
  These strategies are primarily intended for use by area directors, working group chairs, and working group secretaries.     
  This document is not an Internet Standards Track specification; it is published for informational purposes.
 
@@ -105,18 +108,17 @@ def top_p_filter(logits: jax.Array, top_p: jax.Array) -> jax.Array:
     mask = logits >= threshold_largest_logits
     # Set unused logits to -inf.
     logits = jnp.where(mask, logits, -1e10)
-    return logits
-
-
-def sample_token(
+    return logits.def sample_token(
     rngs: jax.random.PRNGKey,
     lm_outputs: LanguageModelOutput,
     settings: SampleSettings,
 ) -> SampleOutput:
     # Expand the settings shape to match the logit shape.
     settings = SampleSettings(
-        temperature=jnp.expand_dims(settings.temperature, (1, 2)),  # Input [B], output [B, 1, 1].
-        nucleus_p=jnp.expand_dims(settings.nucleus_p, (1, 2)),  # Input [B], output [B, 1, 1].
+  temperature=jnp.expand_dims(settings.temperature, (1, 2)),  
+# Input [B], output [B, 1, 1].
+        nucleus_p=jnp.expand_dims(settings.nucleus_p, (1, 2)),  
+# Input [B], output [B, 1, 1].
         mask=jnp.expand_dims(settings.mask, 1),  # Input [B, V], output [B, 1, V].
         active=settings.active,  # [B].
     )
@@ -125,9 +127,7 @@ def sample_token(
     logits = jnp.where(settings.mask, logits, -1e10)
     # Mask out all tokens that don't fall into the p-th percentile.
     logits = top_p_filter(logits, settings.nucleus_p.astype(logits.dtype))
-
     new_token = jax.vmap(jax.random.categorical)(rngs, logits)
-
     probabilities = jax.nn.softmax(logits)
     token_prob = jnp.take_along_axis(probabilities, jnp.expand_dims(new_token, 1), axis=2)
     token_prob = jnp.squeeze(token_prob, 1)
@@ -146,17 +146,23 @@ def sample_token(
 
 @dataclass
 class ModelRunner:
-    model: LanguageModelConfig
+    model:
+ LanguageModelConfig
 
-    bs_per_device: float = 2.0
+    bs_per_device: 
+ float = 2.0
 
-    load_rename_rules: Optional[list[tuple[str, str]]] = None
+    load_rename_rules: Optional[list[tuple[str,str]]] = None
     load_exclude_rules: Optional[list[str]] = None
 
-    rng_seed: int = 42  # Initial rng seed.
-    transform_forward: bool = False
+    rng_seed: 
+ int = 42  
+ # Initial rng seed.
+    transform_forward: 
+ bool = False
 
-    checkpoint_path: str = ""
+    checkpoint_path:
+ str = ""
 
     def make_forward_fn(self, mesh: Any):
         def forward(tokens):
@@ -170,8 +176,10 @@ class ModelRunner:
     def initialize(
         self,
         init_data,
-        local_mesh_config: tuple[int, int],
-        between_hosts_config: tuple[int, int],
+        local_mesh_config:
+ tuple[int, int],
+        between_hosts_config:
+ tuple[int, int],
     ):
         num_replicas = math.prod(between_hosts_config)
         self.model.initialize()
@@ -179,7 +187,8 @@ class ModelRunner:
         num_local_gpus = len(jax.local_devices())
 
         # Calculate the global batch size from the local batch size.
-        self.batch_size = int(self.bs_per_device * num_local_gpus * num_replicas)
+        self.batch_size = int(self.bs_per_device 
+* num_local_gpus * num_replicas)
 
         # Calculate the batch size per host from the global batch size.
         self.local_batch_size = self.batch_size // jax.process_count()
