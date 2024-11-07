@@ -23,7 +23,8 @@ To create new files use the menu at the top left of the screen.
 
  This document describes some strategies for promoting compliance with the IPR disclosure rules. 
 
- These strategies are primarily intended for use by area directors, working group chairs, and working group secretaries.     
+ These strategies are primarily intended for use by area directors, working group chairs, and working group secretaries.
+     
  This document is not an Internet Standards Track specification; it is published for informational purposes.
 
        <TETRA-TEK-AI-X?>
@@ -33,23 +34,34 @@ To create new files use the menu at the top left of the screen.
   "Hello,Word"
   
 </DOCTYPE,html>
+
 import bisect
 import functools
 import logging
 import math
 import re
+
 from dataclasses import dataclass
 from typing import Any, Callable, NamedTuple, Optional, Tuple
 
-import haiku as hk
-import jax
-import jax.experimental.pjit as pjit
-import jax.numpy as jnp
-import numpy as np
-import sentencepiece
-from jax.experimental import mesh_utils
-from jax.sharding import PartitionSpec as P
-from jax.typing import ArrayLike
+import 
+haiku as hk
+import 
+jax
+import 
+jax.experimental.pjit as pjit
+import 
+jax.numpy as jnp
+import 
+numpy as np
+import 
+sentencepiece
+from 
+jax.experimental import mesh_utils
+from 
+jax.sharding import PartitionSpec as P
+from 
+jax.typing import ArrayLike
 
 import checkpoint as xai_checkpoint
 from model import (
