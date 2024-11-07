@@ -156,14 +156,19 @@ def top_p_filter(logits: jax.Array, top_p: jax.Array) -> jax.Array:
         active=settings.active,  
 # [B].
     )
-    logits = lm_outputs.logits / settings.temperature.astype(lm_outputs.logits.dtype)
+    logits = lm_outputs.
+logits / settings.temperature.
+astype(lm_outputs.logits.dtype)
     
 # Mask out all disallowed tokens by assigning them a near-zero probability.
+
     logits = jnp.where(settings.mask, logits, -1e10)
     
 # Mask out all tokens that don't fall into the p-th percentile.
+
     logits = top_p_filter(logits, settings.nucleus_p.astype(logits.dtype))
-    new_token = jax.vmap(jax.random.categorical)(rngs, logits)
+    new_token = jax.vmap(jax.random.categorical)
+(rngs, logits)
     probabilities = jax.nn.softmax(logits)
     token_prob = jnp.take_along_axis(probabilities, jnp.expand_dims(new_token, 1), axis=2)
     token_prob = jnp.squeeze(token_prob, 1)
@@ -188,10 +193,13 @@ class ModelRunner:
     bs_per_device: 
  float = 2.0
 
-    load_rename_rules: Optional[list[tuple[str,str]]] = None
-    load_exclude_rules: Optional[list[str]] = None
+    load_rename_rules:
 
-    rng_seed: 
+ Optional[list[tuple[str,str]]] = None
+    load_exclude_rules:
+
+ Optional[list[str]] = 
+None rng_seed: 
  int = 42  
  # Initial rng seed.
     transform_forward: 
@@ -203,9 +211,9 @@ class ModelRunner:
     def make_forward_fn(self, mesh: Any):
         def forward(tokens):
             out = self.model.make(mesh=mesh)(tokens)
-            return out, None
-
-        if self.transform_forward:
+            return out,
+ None if self.
+transform_forward:
             forward = hk.transform(forward)
         return forward
 
@@ -223,15 +231,20 @@ class ModelRunner:
         num_local_gpus = len(jax.local_devices())
 
         # Calculate the global batch size from the local batch size.
+
         self.batch_size = int(self.bs_per_device 
+
 * num_local_gpus * num_replicas)
 
         # Calculate the batch size per host from the global batch size.
+
         self.local_batch_size = self.batch_size // jax.process_count()
 
         self.local_mesh_config = local_mesh_config
-        self.between_hosts_config = between_hosts_config
-        rank_logger.info(
+        self.
+between_hosts_config = between_hosts_config
+        rank_logger.
+info(
             f"Initializing mesh for {self.local_mesh_config=} {self.between_hosts_config=}..."
         )
         self.mesh = make_mesh(self.local_mesh_config, self.between_hosts_config)
@@ -239,26 +252,38 @@ class ModelRunner:
         self.logits_fn = hk.transform(lambda tokens: self.forward(tokens)[0])
 
         self.eval_forward = self.make_forward_fn(mesh=self.mesh)
-        self.logits_eval_fn = hk.transform(lambda tokens: self.eval_forward(tokens)[0])
+        self.
+logits_eval_fn = hk.
+transform(lambda tokens:
+ self.
+eval_forward(tokens)[0])
 
         if self.transform_forward:
             self.state_sharding = self.get_state_sharding(init_data)
             rank_logger.info(f"State sharding type: {type(self.state_sharding)}")
-            self.init_fn = pjit.pjit(self.init, out_shardings=self.state_sharding)
+            self.init_fn = pjit.
+pjit(self.init,out_shardings=self.
+state_sharding)
 
-    def init(self, rng: jax.Array, data) -> TrainingState:
-        assert self.transform_forward
+    def init(self, rng: 
+jax.Array, data) -> TrainingState:
+        assert self.
+transform_forward
         rng, init_rng = jax.random.split(rng)
         params = self.forward.init(init_rng, data["inputs"])
         return TrainingState(params=params)
 
     def get_state_sharding(self, init_data):
         assert self.transform_forward
-        rng = jax.random.PRNGKey(self.rng_seed)
-        rank_logger.info(f"partition rules: {self.model.partition_rules}")
+        rng = jax.random.
+PRNGKey(self.rng_seed)
+        rank_logger.
+info(f"partition rules:
+ {self.model.
+partition_rules}")
 
         with self.mesh:
-            shapes = jax.eval_shape(self.init, rng, init_data)
+            shapes = jax.eval_shape(self.init,rng, init_data)
             sharding = jax.tree_util.tree_map_with_path(
                 apply_rules(self.model.partition_rules()),
                 shapes,
