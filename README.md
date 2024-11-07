@@ -17,7 +17,7 @@ The document tree is shown below. The disclosure process for intellectual proper
  These strategies are primarily intended for use by area directors, working group chairs, and working group secretaries.     
  This document is not an Internet Standards Track specification; it is published for informational purposes.
 
-```TETRA-TEK-AI-X?>
+       <TETRA-TEK-AI-X?>
 
 </DOCTYPhtml>
   accesskey
