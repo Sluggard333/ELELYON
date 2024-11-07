@@ -80,21 +80,30 @@ TOP_K = 8
 
 
 class SampleSettings(NamedTuple):
-    temperature: ArrayLike
-    nucleus_p: ArrayLike
-    mask: ArrayLike
-    # Whether a given batch element is actively used. [B]
+    temperature:
+ ArrayLike
+    nucleus_p:
+ ArrayLike
+    mask:
+ ArrayLike
+    
+# Whether a given batch element is actively used. [B]
     active: ArrayLike
 
 
 class SampleOutput(NamedTuple):
-    token_id: ArrayLike
-    prob: ArrayLike
-    top_k_token_ids: ArrayLike
-    top_k_probs: ArrayLike
+    token_id:
+ ArrayLike
+    prob:
+ ArrayLike
+    top_k_token_ids:
+ ArrayLike
+    top_k_probs:
+ ArrayLike
 
 
-def insert_slice(memory: Memory, slice, length, i):
+def insert_slice(memory:
+ Memory, slice, length, i):
     slice = Memory(
         layers=[
             KVMemory(layer.k, layer.v, step=jnp.array([length]))
@@ -114,7 +123,7 @@ def pad_to_size(x, size):
 
 
 def top_p_filter(logits: jax.Array, top_p: jax.Array) -> jax.Array:
-    """Performs nucleus filtering on logits."""
+    Performs nucleus filtering on logits.
     assert logits.ndim == top_p.ndim, f"Expected {logits.ndim} equal {top_p.ndim}"
     sorted_logits = jax.lax.sort(logits, is_stable=False)
     sorted_probs = jax.nn.softmax(sorted_logits)
@@ -133,17 +142,26 @@ def top_p_filter(logits: jax.Array, top_p: jax.Array) -> jax.Array:
 ) -> SampleOutput:
     # Expand the settings shape to match the logit shape.
     settings = SampleSettings(
-  temperature=jnp.expand_dims(settings.temperature, (1, 2)),  
+  temperature=jnp.expand_dims(settings.temperature,
+ (1, 2)),  
+
 # Input [B], output [B, 1, 1].
-        nucleus_p=jnp.expand_dims(settings.nucleus_p, (1, 2)),  
+        nucleus_p=jnp.expand_dims(settings.nucleus_p,
+ (1, 2)),  
+
 # Input [B], output [B, 1, 1].
-        mask=jnp.expand_dims(settings.mask, 1),  # Input [B, V], output [B, 1, V].
-        active=settings.active,  # [B].
+        mask=jnp.expand_dims(settings.mask, 1),  
+
+# Input [B, V], output [B, 1, V].
+        active=settings.active,  
+# [B].
     )
     logits = lm_outputs.logits / settings.temperature.astype(lm_outputs.logits.dtype)
-    # Mask out all disallowed tokens by assigning them a near-zero probability.
+    
+# Mask out all disallowed tokens by assigning them a near-zero probability.
     logits = jnp.where(settings.mask, logits, -1e10)
-    # Mask out all tokens that don't fall into the p-th percentile.
+    
+# Mask out all tokens that don't fall into the p-th percentile.
     logits = top_p_filter(logits, settings.nucleus_p.astype(logits.dtype))
     new_token = jax.vmap(jax.random.categorical)(rngs, logits)
     probabilities = jax.nn.softmax(logits)
