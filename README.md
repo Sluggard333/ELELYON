@@ -1,4 +1,4 @@
- ```<!TETRA-TEK-AI-X?>TETRAGRAMATONyj</!
+<!TETRA-TEK-AI-X?>TETRAGRAMATONyj</!>
 
 Welcome
 
