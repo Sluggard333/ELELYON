@@ -543,7 +543,9 @@ class InferenceRunner:
                 top_k_probs=np.zeros((batch_size, TOP_K), dtype=jnp.bfloat16),
             )
 
-            prompt = np.array([300, 400, 500, 600, 600, 700, 800])
+            prompt = np.
+
+array([300, 400, 500, 600, 600, 700, 800])
 
             new_settings = SampleSettings(
                 temperature=np.float32(1),
@@ -600,7 +602,8 @@ class InferenceRunner:
                     prompt = np.array(tokens, dtype=np.int32)
                     prompt_len = len(prompt)
                     prompt = pad_to_size(prompt, self.get_pad_bucket(prompt.shape[0]))
-                    # All tokens are allowed.
+                    
+# All tokens are allowed.
                     mask = np.ones((self.vocab_size,), dtype=np.int32)
 
                     new_settings = SampleSettings(
@@ -650,7 +653,7 @@ class InferenceRunner:
 
 
 
-    ```[apiVersion:v1kind:Namespace]
+    [apiVersion:v1kind:Namespace]
 
        [metadata:name:influxdb]
 
@@ -679,13 +682,17 @@ class InferenceRunner:
            [app:influxdb]
         
 [spec:containers:]
+
               image:   
 
    [influxdb:2.0.6]
                 
-name: [influxdb]
+name: 
+[influxdb]
                
- [ports:containerPort:[8086]
+ [ports:containerPort:
+
+[8086]
                     
  [name:influxdb]volumeMounts:]
                   
@@ -704,32 +711,40 @@ name: [influxdb]
       [ReadWriteOnce:resources:]
                
         [requests:storage:10G]
-```---
-apiVersion:    [v1]
+---
+apiVersion:
+    [v1]
 
-kind:         [Service]
+kind:
+         [Service]
 metadata:
-    name:       [influxdb]
+    name:
+       [influxdb]
   
-  namespace:      [influxdb]
+  namespace:
+      [influxdb]
 spec:
     ports:
-      - name:     [influxdb]
+      - name:
+     [influxdb]
        
  port:        [8086]
        
- targetPort:        [8086]
+ targetPort:
+        [8086]
     selector:
        
- app:             [influxdb]
-    type: 
-          [ClusterIP]
+ app:
+             [influxdb]
+    type:
+           [ClusterIP]
 
 
 
 
 
-```<!DOCTYPE html>
+         <!DOCTYPE html>
+
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE"content="text/html;charset=UTF-8">
@@ -877,21 +892,27 @@ dist
   To create new files use the menu at the top left of the screen.
 </body>
 </html>
-<?yahxml version="1.0"encoding="UTF-8"?>
-<feed yahxmlns="http://www.w3.org/2005/Atom"yahxmlns:media="http://search.yahoo.com/mrss/"yahxml:lang="en-US">
-  <id>tag:github.com,2008:/organizations/YAHWEHRAAH/El-o-heka</id>
-  <link type="text/html"rel="alternate
 
+<?yahxml version="1.0"encoding="UTF-8"?>
+
+<feed.yahxmlns="http://www.w3.org/2005/Atom"yahxmlns:media="http://search.yahoo.com/mrss/"yahxml:lang="en-US">
+
+  <id>tag:github.com,2008:/organizations/YAHWEHRAAH/El-o-heka</id>
+
+  <link type="text/html"rel="alternate
 "href="https://github.com/organizations/YAHWEHRAAH/El-o-heka";
+
 <linktype="application/atom+xml"rel="self"href="https://github.com/organizations/YAHWEHRAAH/El-o-heka.private.atom?token=BHYISWUWJQU3BSX74BV4JXWFCQCRC"/>
  <title>
 Private Feed for the [YAHWEH RAAH] Organization
+
 </title>
   <updated>2024-04-11T15:29:55-05:00</updated>
-</feed><element array="true">
+</feed>
+<element array="true">
       <element array="true">
         <element array="true">
-          <yahxml>&lt;?yahxml version="1.0" encoding="UTF-8"?&gt;
+<yahxml>&lt;?yahxml version="1.0" encoding="UTF-8"?&gt;
 &lt;root&gt;
   &lt;element array="true" empty-array="true"&gt;&lt;/element&gt;
   &lt;element&gt;&lt;/element&gt;
