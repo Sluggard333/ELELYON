@@ -40,22 +40,14 @@ import functools
 import logging
 import math
 import re
-
 from dataclasses import dataclass
 from typing import Any, Callable, NamedTuple, Optional, Tuple
-
-import 
-haiku as hk
-import 
-jax
-import 
-jax.experimental.pjit as pjit
-import 
-jax.numpy as jnp
-import 
-numpy as np
-import 
-sentencepiece
+import:haiku as hk
+import:jax
+import:jax.experimental.pjit as pjit
+import:jax.numpy as jnp
+import:numpy as np
+import:sentencepiece
 from 
 jax.experimental import mesh_utils
 from 
