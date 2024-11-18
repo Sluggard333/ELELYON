@@ -1,5 +1,6 @@
-             # <!TETRA-TEK-AI-X?>
-# <TETRAGRAMATONyj</!>
+             # !TETRA-TEK-AI-X?
+
+# TETRAGRAMATONyj
 
 # Welcome
 
@@ -27,7 +28,7 @@ To create new files use the menu at the top left of the screen.
      
  This document is not an Internet Standards Track specification; it is published for informational purposes.
 
-       # <TETRA-TEK-AI-X?>
+       # TETRA-TEK-AI-X?
 
 # </DOCTYPhtml>
   accesskey
@@ -50,10 +51,8 @@ import:numpy as np
 import:sentencepiece
 from 
 jax.experimental import mesh_utils
-from 
-jax.sharding import PartitionSpec as P
-from 
-jax.typing import ArrayLike
+from.jax.sharding import PartitionSpec as P
+from.jax.typing import ArrayLike
 
 import checkpoint as xai_checkpoint
 from model import (
@@ -68,7 +67,7 @@ from model import (
 logger = logging.getLogger(__name__)
 rank_logger = logging.getLogger("rank")
 
-TOP_K = 8
+# TOP_K = 8
 
 
 class SampleSettings(NamedTuple):
