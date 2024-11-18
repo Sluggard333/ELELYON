@@ -8,17 +8,17 @@
 
 # The page is written in html, to see its markup and edit it click the edit button at the top of the screen.
 
-You can open html, css and javascript files using the file manager.
+# You can open html, css and javascript files using the file manager.
 
-To create new files use the menu at the top left of the screen.
+# To create new files use the menu at the top left of the screen.
 
- This XML file does not appear to have any style information associated with it. 
+ # This XML file does not appear to have any style information associated with it. 
 
  The document tree is shown below.
 
- The disclosure process for intellectual property rights (IPR) in documents produced within the IETF stream is essential to the accurate development of community consensus. 
+ # The disclosure process for intellectual property rights (IPR) in documents produced within the IETF stream is essential to the accurate development of community consensus. 
  
- However, this process is not always followed by IETF participants.
+ # However, this process is not always followed by IETF participants.
      
  Regardless of the cause or motivation, noncompliance with IPR disclosure rules can delay or even derail completion of IETF specifications.
 
