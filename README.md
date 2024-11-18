@@ -1,11 +1,11 @@
-             <!TETRA-TEK-AI-X?>
-<TETRAGRAMATONyj</!>
+             # <!TETRA-TEK-AI-X?>
+# <TETRAGRAMATONyj</!>
 
-Welcome
+# Welcome
 
-This is an awesome web page.
+# This is an awesome web page.
 
-The page is written in html, to see its markup and edit it click the edit button at the top of the screen.
+# The page is written in html, to see its markup and edit it click the edit button at the top of the screen.
 
 You can open html, css and javascript files using the file manager.
 
@@ -27,13 +27,13 @@ To create new files use the menu at the top left of the screen.
      
  This document is not an Internet Standards Track specification; it is published for informational purposes.
 
-       <TETRA-TEK-AI-X?>
+       # <TETRA-TEK-AI-X?>
 
-</DOCTYPhtml>
+# </DOCTYPhtml>
   accesskey
   "Hello,Word"
   
-</DOCTYPE,html>
+# </DOCTYPE,html>
 
 import bisect
 import functools
