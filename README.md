@@ -2,9 +2,9 @@
 
               *TETRAGRAMATONyj
 
-# Welcome
+ Welcome
 
-# This is an awesome web page.
+* This is an awesome web page.
 
 # The page is written in html, to see its markup and edit it click the edit button at the top of the screen.
 
