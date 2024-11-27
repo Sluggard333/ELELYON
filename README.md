@@ -6,7 +6,7 @@
 
 * This is an awesome web page.
 
-# The page is written in html, to see its markup and edit it click the edit button at the top of the screen.
+* The page is written in html, to see its markup and edit it click the edit button at the top of the screen.
 
 # You can open html, css and javascript files using the file manager.
 
