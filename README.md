@@ -1,6 +1,6 @@
               !TETRA-TEK-AI-X?
 
-# TETRAGRAMATONyj
+              *TETRAGRAMATONyj
 
 # Welcome
 
