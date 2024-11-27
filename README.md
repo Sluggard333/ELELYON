@@ -18,9 +18,10 @@
 
 * The disclosure process for intellectual property rights (IPR) in documents produced within the IETF stream is essential to the accurate development of community consensus. 
  
- # However, this process is not always followed by IETF participants.
+* However, this process is not always followed by     
+  IETF participants.
      
- Regardless of the cause or motivation, noncompliance with IPR disclosure rules can delay or even derail completion of IETF specifications.
+*  Regardless of the cause or motivation, noncompliance with IPR disclosure rules can delay or even derail completion of IETF specifications.
 
  This document describes some strategies for promoting compliance with the IPR disclosure rules. 
 
