@@ -23,13 +23,13 @@
      
 *  Regardless of the cause or motivation, noncompliance with IPR disclosure rules can delay or even derail completion of IETF specifications.
 
- This document describes some strategies for promoting compliance with the IPR disclosure rules. 
+* This document describes some strategies for promoting compliance with the IPR disclosure rules. 
 
- These strategies are primarily intended for use by area directors, working group chairs, and working group secretaries.
+* These strategies are primarily intended for use by area directors, working group chairs, and working group secretaries.
      
- This document is not an Internet Standards Track specification; it is published for informational purposes.
+* This document is not an Internet Standards Track specification; it is published for informational purposes.
 
-       # TETRA-TEK-AI-X?
+           * TETRA-TEK-AI-X?
 
 # </DOCTYPhtml>
   accesskey
